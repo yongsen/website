@@ -1,5 +1,35 @@
 theme: jekyll-theme-cayman
 title: Yongsen Ma
-description: Yongsen Ma | Computer Science | William & Mary
-institution: Computer Science Department, College of William and Mary
-address: Williamsburg, Virginia, USA
+author: Yongsen Ma
+description: William & Mary
+
+institution:
+  department: Computer Science Department
+  college: College of William and Mary
+address:
+  city: Williamsburg
+  state: Virginia
+  country: USA
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:
+
+# Includes an icon in the footer for each username you enter
+social:
+  dribbble:
+  email: yma@cs.wm.edu
+  facebook:
+  flickr:
+  github: yongsen
+  instagram:
+  linkedin: yongsen
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+# Use the following plug-ins
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem

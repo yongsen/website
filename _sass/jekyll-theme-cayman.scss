@@ -28,7 +28,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 12px;
   line-height: 1.5;
   color: $body-text-color;
 }
@@ -123,12 +123,13 @@ a {
 }
 
 .project-tagline {
+  margin-top: 0;
   margin-bottom: 0;
   font-weight: normal;
   opacity: 1;
 
   @include large {
-    font-size: 1.75rem;
+    font-size: 1.25rem;
   }
 
   @include medium {
@@ -136,7 +137,7 @@ a {
   }
 
   @include small {
-    font-size: 1rem;
+    font-size: 1.05rem;
   }
 }
 
@@ -176,6 +177,7 @@ a {
   h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
+    font-weight: bold;
     font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
     color: $section-headings-color;
   }
@@ -263,7 +265,8 @@ a {
     margin-bottom: 0.4rem;
     padding: 0 0.6rem;
     margin-left: 0;
-    color: #222222;
+    font-size: 0.98rem;
+    color: $body-text-color;
     border-left: 0.3rem solid $border-color;
 
     > :first-child {
