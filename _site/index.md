@@ -2,7 +2,7 @@
 
 # Biography
 ---
-Yongsen Ma is a Ph.D. candidate in the Computer Science Department at the College of William and Mary. He holds an M.S. degree from Shanghai Jiao Tong University and a B.S. degree from Shandong University. He was a Research Assistant in the Mobile and Communications Group of Intel at Shanghai.
+Yongsen Ma is a Ph.D. candidate in the Computer Science Department at the College of William and Mary. He got an M.S. degree from Shanghai Jiao Tong University and a B.S. degree from Shandong University. He was a Research Assistant in the Mobile and Communications Group of Intel at Shanghai.
 
 
 # Publications
